@@ -1,0 +1,35 @@
+# English
+time
+year
+people
+way
+day
+man
+thing
+woman
+life
+child
+
+# Japanese
+こんにちは
+愛
+幸福
+猫
+犬
+微笑む
+日本の
+はい
+ありがとうございます
+さようなら
+
+# Korean
+안녕하세
+안녕히 계세요
+네
+아니요
+실례합니다
+미안해요
+감사합니다
+지하철역
+버스정거장
+주세요
